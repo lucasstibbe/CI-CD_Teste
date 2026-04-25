@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="265b20e1-847c-4a5b-b547-503a00f60fa4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci-kanban.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci-kanban.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/LabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/LabApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/controller/TarefaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/controller/TarefaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaReponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaReponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/entity/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/TaskStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/entity/TaskStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/repository/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/test/java/br/com/faculdadedonaduzzi/lab/LabApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/faculdadedonaduzzi/lab/LabApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +56,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "Rebasing main"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Desktop\lab1-master" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
