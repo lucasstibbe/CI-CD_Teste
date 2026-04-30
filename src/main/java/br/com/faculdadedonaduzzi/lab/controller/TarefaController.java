@@ -43,7 +43,7 @@ public class TarefaController {
         newTask.setDescricao(task.descricao());
         newTask.setStatus(task.status());
         Task savedTask = taskRepository.save(newTask);
-        return new TarefaReponseDTO(savedTask);
+        return new TarefaReponseDTO(savedTask)
     }
 
 }

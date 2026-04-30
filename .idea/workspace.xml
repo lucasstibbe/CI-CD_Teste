@@ -4,21 +4,90 @@
     <list default="true" id="265b20e1-847c-4a5b-b547-503a00f60fa4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/ci-kanban.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci-kanban.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/LabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/LabApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/controller/TarefaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/controller/TarefaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaReponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/dto/TarefaReponseDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/entity/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/TaskStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/entity/TaskStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/java/br/com/faculdadedonaduzzi/lab/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/faculdadedonaduzzi/lab/repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1-master/lab/src/test/java/br/com/faculdadedonaduzzi/lab/LabApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/faculdadedonaduzzi/lab/LabApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/._lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._.mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/._target" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._httpRequests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T161446.200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T161450.200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T161453.200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T161520.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T162839.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T162845.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._2026-02-20T162849.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._http-client.cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.idea/httpRequests/._http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.mvn/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/._faculdadedonaduzzi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/._lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/._LabApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/._controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/._dto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/._entity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/._repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/controller/._TarefaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/._TarefaDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/dto/._TarefaReponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/._Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/entity/._TaskStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/java/br/com/faculdadedonaduzzi/lab/repository/._TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/resources/._application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/java/br/com/._faculdadedonaduzzi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/java/br/com/faculdadedonaduzzi/._lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/src/test/java/br/com/faculdadedonaduzzi/lab/._LabApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/._classes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/._generated-sources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/._application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/._faculdadedonaduzzi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/._lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/._LabApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/._controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/._dto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/._entity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/._repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/controller/._TarefaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/dto/._TarefaDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/dto/._TarefaReponseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/entity/._Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/entity/._TaskStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/classes/br/com/faculdadedonaduzzi/lab/repository/._TaskRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1-master/__MACOSX/lab/target/generated-sources/._annotations" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
